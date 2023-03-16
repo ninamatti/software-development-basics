@@ -36,6 +36,8 @@ You've made it to this repository, great! The following are some steps to help y
    https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
 4. PROJECT: Create a branch and build a simple page with a memory app using HTML, CSS and JavaScript. There are many good tutorials out there, such as:    
    https://www.youtube.com/watch?v=28VfzEiJgy4&t=1254s&ab_channel=WebDevSimplified   
-   Follow along with the tutorial to create your own game, and make sure to add your personal flavor to the game by using different images, sounds, changing the animation etc 
+   Follow along with the tutorial to create your own game, and make sure to add your personal flavor to the game by using different images, sounds, changing the animation etc   
+5. Optional: Host your memory card game on Codepen - sign up, create a new "Pen" and insert your html/css/js code in the respective space, and share your work with your friends if you want :)  
+   https://codepen.io/
 
 
