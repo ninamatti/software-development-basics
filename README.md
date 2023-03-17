@@ -3,6 +3,8 @@
 You've made it to this repository, great! The following are some steps to help you get started in the world of software development. If you already have some stuff installed or are already familiar with certain concepts, feel free to skip them, of course :)
 
 
+# PART 1 - BASICS
+
 ## Step 1 - COMMAND LINE
 1. Learn about what the command line is and what it does:   
    https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line
@@ -40,4 +42,5 @@ You've made it to this repository, great! The following are some steps to help y
 5. Optional: Host your memory card game on Codepen - sign up, create a new "Pen" and insert your html/css/js code in the respective space, and share your work with your friends if you want :)  
    https://codepen.io/
 
-
+## Step 6 - WEB DEVELOPMENT & THE DOM
+1. Learn about debugging in the Browser
