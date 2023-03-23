@@ -1,4 +1,4 @@
-# Software development basics
+# Software development basics (work in progress)
 
 You've made it to this repository, great! The following are some steps to help you get started in the world of software development. If you already have some stuff installed or are already familiar with certain concepts, feel free to skip them, of course :)
 
