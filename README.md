@@ -42,12 +42,13 @@ You've made it to this repository, great! The following are some steps to help y
 5. Optional: Host your memory card game on Codepen - sign up, create a new "Pen" and insert your html/css/js code in the respective space, and share your work with your friends if you want :)  
    https://codepen.io/
 
-## Step 6 - WEB DEVELOPMENT & THE DOM
-1. Learn about debugging in the Browser:    
+## Step 6 - THE DOM
+1. Learn about debugging in the Browser:  (TODO: insert this step into the JS steps)  
    https://javascript.info/debugging-chrome
 2. Learn about the DOM and how to access and manipulate html elements:   
    https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/
-3. PROJECT: add a button to your Website that generates alligators when clicked! In detail: 
-3.1 Create a button and an input field that accepts a number
-3.2 Create a box that has a width of 300px but doesn't have a set height below the input field
-3.3 tbd
+3. PROJECT: to train using query selectors, add a button to your Website that generates sharks when clicked! In detail: 
+   3.1 Create a button that says "Unleash sharks" and below it a text input field
+   3.2 Below the input field, create a blue box that has a width of 300px but doesn't have a set height 
+   3.3 If the user types a number into the text input field and pushes the button, the blue box should be populated with that many shark emojis.🦈
+   3.4 All the styling should be managed in the CSS file
