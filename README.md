@@ -43,4 +43,11 @@ You've made it to this repository, great! The following are some steps to help y
    https://codepen.io/
 
 ## Step 6 - WEB DEVELOPMENT & THE DOM
-1. Learn about debugging in the Browser
+1. Learn about debugging in the Browser:    
+   https://javascript.info/debugging-chrome
+2. Learn about the DOM and how to access and manipulate html elements:   
+   https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/
+3. PROJECT: add a button to your Website that generates alligators when clicked! In detail: 
+3.1 Create a button and an input field that accepts a number
+3.2 Create a box that has a width of 300px but doesn't have a set height below the input field
+3.3 tbd
