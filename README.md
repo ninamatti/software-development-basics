@@ -29,7 +29,7 @@ You've made it to this repository, great! The following are some steps to help y
    https://css-tricks.com/how-css-selectors-work/  
    Test your CSS selector skills here:     
    https://flukeout.github.io/
-2. Optional: get better acquainted with flexbox, a useful CSS layout system by reading about the basics and training with flexbox froggy:    
+2. Get better acquainted with flexbox, a useful CSS layout system by reading about the basics and training with flexbox froggy:    
    https://css-tricks.com/snippets/css/a-guide-to-flexbox/   
    https://flexboxfroggy.com/#de     
 3. PROJECT: Create a branch in your forked repository and build a simple website using only HTML and CSS where you introduce yourself (name, hobbies, future aspirations etc) if you haven't already done a similar project before; try to build it without following an example, coming up with your own design and layout. It doesn't have to look professional - the purpose of this exercise is for you to freely try out different concepts you've learned
