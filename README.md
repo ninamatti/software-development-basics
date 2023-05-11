@@ -59,7 +59,7 @@ You've made it to this repository, great! The following are some steps to help y
    3.3 If the user types a number into the text input field and pushes the button, the blue box should be populated with that many shark emojis🦈. If the user does not enter a number (no input or non-numerical input), do not generate any sharks but generate a short text anywhere around the button to let the user know that their input was incorrect.      
    3.4 All the styling should be managed in the CSS file.   
 
-## Step  - APIs
+## Step 7 - APIs
 1. Learn about what APIs are (feel free to search the internet for more information):    
    https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
 2. Learn about basic CRUD operations and REST APIs:        
