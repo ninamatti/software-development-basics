@@ -37,7 +37,7 @@ You've made it to this repository, great! The following are some steps to help y
 ## Step 5 - JAVASCRIPT
 1. Learn/revise JS basics, with one of the many options available online, for example:    
    https://www.jshero.net/home.html
-2. Optional: deep dive into JS, and have a detailed look at some of the more advanced concepts of JS, such as closures, recursion and asynchroneous javascript. Recommended Youtube Playlist:    
+2. Deep dive into JS, and have a detailed look at some of the more advanced concepts of JS, such as closures, recursion and asynchroneous javascript. Recommended Youtube Playlist:    
    https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
 4. PROJECT: Create a branch and build a simple page with a memory app using HTML, CSS and JavaScript. There are many good tutorials out there, such as:    
    https://www.youtube.com/watch?v=28VfzEiJgy4&t=1254s&ab_channel=WebDevSimplified   
@@ -57,4 +57,23 @@ You've made it to this repository, great! The following are some steps to help y
    3.1 Create a button that says "Unleash sharks" and below it a text input field.     
    3.2 Below the input field, create a blue box that has a width of 300px but doesn't have a set height.  
    3.3 If the user types a number into the text input field and pushes the button, the blue box should be populated with that many shark emojis🦈. If the user does not enter a number (no input or non-numerical input), do not generate any sharks but generate a short text anywhere around the button to let the user know that their input was incorrect.      
-   3.4 All the styling should be managed in the CSS file.     
+   3.4 All the styling should be managed in the CSS file.   
+
+## Step  - APIs
+1. Learn about what APIs are (feel free to search the internet for more information):    
+   https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
+2. Learn about basic CRUD operations and REST APIs:        
+   https://www.codecademy.com/article/what-is-crud
+3. Learn about the Fetch API (only looking at basic fetch requests is necessary, but feel free to go into depth if you want):   
+   https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch  
+4. Review the concepts of Arrays and the use of map and filter methods to return specific data:    
+   https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/    
+5. PROJECT: Get familiar with and fetch Pokemon Data from the PokeAPI with a simple FETCH request, and display some of its information in whatever way you like on your website (For example, Display the first five Pokemon you get back from their pokemon database with an image, their name and one of their attacks). Make sure not to make too many requests while testing since this creates server costs for the hosts!     
+   https://pokeapi.co/docs/v2#pokemon.     
+6. Learn about how to use Postman to make requests and test your API calls:     
+   https://www.toolsqa.com/postman/postman-tutorial/
+8. PROJECT: Create your own REST API that provides some kind of simple data (for example, a list of your favourite books or games etc) when a GET request comes in, and also accepts other CRUD operations to change data. Test it with Postman.
+   
+   
+
+   
