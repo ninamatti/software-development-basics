@@ -75,5 +75,12 @@ You've made it to this repository, great! The following are some steps to help y
 8. PROJECT: Create your own REST API that provides some kind of simple data (for example, a list of your favourite books or games etc) when a GET request comes in, and also accepts other CRUD operations to change data. Test it with Postman.
    
    
+## Step 8 - Databases
+1. Learn about the difference between relational and non-relational databases 
+   https://aloa.co/blog/relational-vs-non-relational-database-pros-cons#:~:text=A%20relational%20database%20is%20structured,of%20a%20laundry%20list%20order.
+2. Install PostgreSQL on your computer
+   https://www.postgresqltutorial.com/postgresql-getting-started/       
+   https://www.youtube.com/watch?v=0n41UTkOBb0&ab_channel=GeekyScript      
+3. PROJECT: Come up with a way to incorporate Data from a database on your website, for example creating a leaderboard for your memory game, saving every new score in the database and retrieving and displaying current highscores on your site. Follow the steps suggested by the guide: start by creating a schema for your data, then create data tables in a Postgres Database, then start incorporating the data in your website 
 
    
